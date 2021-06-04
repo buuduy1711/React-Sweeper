@@ -5,5 +5,5 @@ This game is based on famously Minesweeper from Microsoft Windows XP. The basic 
 Player can adjust to number of columns/rows and the number of bombs that will be create and planted into the grid (The still some error in this process, but mostly is the real number of bombs didn't fit the expectation. I'll work on this later)
 If player accidentaly open the bomb tile, the game is over
 
-Source code is derived from 
+Source code is derived from hamzanadeveloper major changed and modifiy to follow the game rules
 
